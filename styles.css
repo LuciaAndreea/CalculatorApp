@@ -28,7 +28,7 @@ body{
 }
 
 .calculator button{
-    height: 50px;
+    height: 60px;
     font-size: 24px;
     cursor: pointer;
     background-color: grey;
